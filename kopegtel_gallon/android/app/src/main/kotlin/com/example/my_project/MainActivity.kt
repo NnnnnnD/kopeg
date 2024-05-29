@@ -1,0 +1,6 @@
+package com.mycompany.kopegtelgallon
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
